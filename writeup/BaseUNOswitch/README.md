@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=0CF730&center=true&random=false&width=435&lines=Official+writeup+of+baseUNOswitch" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=0CF730&center=true&random=false&width=435&lines=Official+writeup+of+baseUNOswitch" alt="Typing SVG" /></a></p>
 
 In the baseUNOswitch challenge we get two files a txt file named cipher.txt which contains the cipher and a JPG file name [baseUNO_hint.jpg](https://github.com/ACE-UCHIHA/FlagFest2024/blob/main/writeup/BaseUNOswitch/images/baseUNO_hint.jpg)
 
