@@ -1,8 +1,10 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=0CF730&center=true&random=false&width=435&lines=Official+writeup+of+Boot2root_category" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=0CF730&center=true&random=false&width=700&lines=Official+writeup+of+Boot2root+category" alt="Typing SVG" /></a></p>
 
 >Challenge category: Boot2root
-Author: @h4x0r3rr0r
-Writeup by: @Isaac Newtom
+
+>Author: @h4x0r3rr0r
+
+>Writeup by: @Isaac Newtom
 
 
 
