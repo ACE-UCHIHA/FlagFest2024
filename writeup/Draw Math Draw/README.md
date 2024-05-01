@@ -1,17 +1,19 @@
-In Draw Math Draw challenge only a PNG file name [broken_qr.png]() was given.
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=0CF730&center=true&random=false&width=435&lines=Official+writeup+of+Draw+Math+Draw" alt="Typing SVG" /></a></p>
 
+In Draw Math Draw challenge only a PNG file named [broken_qr.png](https://github.com/ACE-UCHIHA/FlagFest2024/blob/main/writeup/Draw%20Math%20Draw/images/broken_qr.png) was given.
 
+![Draw Math Draw broken QR](https://github.com/ACE-UCHIHA/FlagFest2024/blob/main/writeup/Draw%20Math%20Draw/images/broken_qr.png "This was the provided broken QR")
 
 Which was a image of a QR code but with some doodles on it and because of these doodles the QR code was corrupted and couldn't be scanned.
 
 
-So we need to recreate the Exact QR from scratch using our ART skills ;)
+So we need to recreate the Exact QR from scratch or fix it using our ART skills ;)
 
 
 We used [pixilart.com](https://pixilart.com/draw) for recreating the QR
 
 here's a .pixil file that you can import in that website a see a recreated version of the QR
-[fixed_qr.pixil]()
+[fixed_qr.pixil](https://github.com/ACE-UCHIHA/FlagFest2024/blob/main/writeup/Draw%20Math%20Draw/images/fixed_qr.pixil)
 
 After scanning our recreated QR we get a pastebin link https://pastebin.com/1LU6Kjzt
 
@@ -34,3 +36,5 @@ So if you research on Math and Self-Reference you'll eventually run into a fomul
 so we will use this visualizer https://keelyhill.github.io/tuppers-formula/ to visualize the number
 
 and we got the flag
+
+![proof of visualization](https://github.com/ACE-UCHIHA/FlagFest2024/blob/main/writeup/Draw%20Math%20Draw/images/Draw_Math_Draw_prove.png "proof of visualization")
